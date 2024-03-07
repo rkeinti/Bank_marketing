@@ -1,0 +1,4 @@
+-This study shows the use of KNN Classifier, Decision Tree Classifier, Logistic Classifier and SVC give very good results with the bank marketing dataset.
+-The DT model has good results.
+-The Xgboost Classifier has the best results.
+-Regarding the features, the duration is by far the most important feature followed the month
